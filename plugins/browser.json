@@ -9,9 +9,6 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.dustin.sqlite"
-    },
-    "cordova-sqlite-storage": {
-      "PACKAGE_NAME": "com.dustin.sqlite"
     }
   },
   "dependent_plugins": {}
